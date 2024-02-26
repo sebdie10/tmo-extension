@@ -1,0 +1,19 @@
+{
+  "name": "tmo-ext",
+  "version": "1.0.0",
+  "description": "Extension de tmo para leer sin publicidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebdie10/tom-extension.git"
+  },
+  "author": "sebdie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebdie10/tom-extension/issues"
+  },
+  "homepage": "https://github.com/sebdie10/tom-extension#readme"
+}
